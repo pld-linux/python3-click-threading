@@ -3,7 +3,7 @@
 Summary:	Multithreaded Click apps made easy
 Name:		python3-click-threading
 Version:	0.5.0
-Release:	6
+Release:	7
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/click-threading/
